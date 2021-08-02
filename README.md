@@ -5,7 +5,7 @@ MERN stack (MongoDB, ExpressJS, React and Node.JS)
 
 ### 1. Clone repo
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone https://github.com/Adeniyikayodee/AmazonClone.git
 $ cd amazona
 ```
 
